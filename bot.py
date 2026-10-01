@@ -35,7 +35,7 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 BASE = "https://bot.abecmed.com.br"
-TYPEBOT = "pix-pagamento"
+TYPEBOT = "bot-abecmed-2-1"
 NTFY_BASE = "https://ntfy.sh"
 
 # Cabecalhos identicos aos que o Firefox manda nesse site. Alem de evitar
